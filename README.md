@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seichter, an AR, VR and Computer Vision expert working on various software tools. Besides I'm an appointed professor of computer graphics.
 - 👀 I’m interested in working on little elegant solutions
-- 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on everything graphics
+- 🌱 I’m currently polishing my Rust skills
+- 💞️ I’m looking to collaborate on everything graphics, augmented reality and virtual reality
 - 📫 How to reach me: just send me a DM
 
 <!---
