@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @seichter, an AR, VR and Computer Vision expert working on various software tools. Besides I'm an appointed professor of computer graphics.
+- 👋 Hi, I’m an AR, VR and Computer Vision expert working on various software tools. Besides I'm an appointed professor of computer graphics.
 - 👀 I’m interested in working on little elegant solutions
 - 🌱 I’m currently polishing my Rust skills
-- 💞️ I’m looking to collaborate on everything graphics, augmented reality and virtual reality
+- 💞️ I’m looking to collaborate on everything graphics, augmented reality and virtual reality (#AR,#VR,#XR ...)
 - 📫 How to reach me: just send me a DM
 - 🐘 <a rel="me" href="https://mastodon.social/@retrakker">follow me on Mastodon</a>
 
