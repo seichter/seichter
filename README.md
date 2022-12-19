@@ -3,6 +3,7 @@
 - 🌱 I’m currently polishing my Rust skills
 - 💞️ I’m looking to collaborate on everything graphics, augmented reality and virtual reality
 - 📫 How to reach me: just send me a DM
+- 🐘 <a rel="me" href="https://mastodon.social/@retrakker">follow me on Mastodon</a>
 
 <!---
 seichter/seichter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
