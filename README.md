@@ -3,7 +3,7 @@
 - 👀 I’m interested in working on little elegant solutions
 - 🌱 I’m currently polishing my Rust skills
 - 💞️ I’m looking to collaborate on everything graphics, augmented reality and virtual reality (#AR,#VR,#XR ...)
-- 🤖 Due to an influx of AI training here, which I disaprove, I'm not very active here on Github anymore
+- 🤖 Due to an influx of AI training here, which I disaprove, I'm not hosting lots of code on Github anymore
 - 📫 How to reach me: just send me a DM
 - 🐘 <a rel="me" href="https://mastodon.social/@retrakker">follow me on Mastodon</a>
 
